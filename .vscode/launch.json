@@ -17,7 +17,7 @@
       }
     },
     {
-      "name": "debbug in chrome",
+      "name": "debug in chrome",
       "type": "chrome",
       "request": "launch",
       "url": "http://localhost:4200/#",
